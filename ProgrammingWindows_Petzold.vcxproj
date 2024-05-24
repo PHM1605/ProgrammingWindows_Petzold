@@ -21,9 +21,6 @@
   <ItemGroup>
     <ClCompile Include="hellowin.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Media Include="HelloWin.wav" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
