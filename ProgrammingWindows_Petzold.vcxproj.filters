@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hellowin.cpp">
+    <ClInclude Include="sysmets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sysmets1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
