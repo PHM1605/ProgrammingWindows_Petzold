@@ -22,7 +22,7 @@
     <ClInclude Include="sysmets.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sysmets1.cpp" />
+    <ClCompile Include="sysmets2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
