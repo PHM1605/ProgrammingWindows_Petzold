@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sysmets.h" />
+    <ClCompile Include="devcaps1.cpp" />
+    <ClCompile Include="sysmets1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sysmets2.cpp" />
+    <ClInclude Include="sysmets.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
